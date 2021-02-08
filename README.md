@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-http://npi-d7.net/
+http://npi-d7.github.io/
 
 You can use the [editor on GitHub](https://github.com/NPI-D7/NPI-D7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
